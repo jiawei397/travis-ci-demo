@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jiawei397/travis-ci-demo.svg?branch=demo01)](https://travis-ci.org/jiawei397/travis-ci-demo)
+[![Build Status](https://travis-ci.org/jiawei397/travis-ci-demo.svg?branch=demo02)](https://travis-ci.org/jiawei397/travis-ci-demo)
 
 ## What is Travis CI?
 
